@@ -1,0 +1,4 @@
+IPTV源地址：https://gitee.com/be_fine/iptv/blob/master/iptv.txt#
+文件源下载地址：https://gitee.com/be_fine/iptv/raw/master/iptv.txt
+我的源:https://gitee.com/xuyong651130/yeyoushen
+我的源下载地址:https://gitee.com/xuyong651130/yeyoushen/raw/master/iptv.txt
