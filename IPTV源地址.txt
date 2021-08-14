@@ -1,4 +1,3 @@
-IP源地址 https://gitee.com/be_fine/iptv/raw/master/iptv.txt
+IPTV源文件地址 https://gitee.com/be_fine/iptv/raw/master/iptv.txt
 
-
-https://gitee.com/be_fine/iptv/blob/master/iptv.txt#
+IPTV的Gitee 源https://gitee.com/be_fine/iptv/blob/master/iptv.txt#
