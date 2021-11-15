@@ -1,0 +1,323 @@
+https://gitee.com/fzcaiyu/iptv/blob/master/%E5%9F%BA%E7%A1%80%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90%E5%88%97%E8%A1%A8.m3u8#
+
+
+
+#【央视】
+
+#EXTINF:-1 ,CCTV-1  综合频道 HD
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-1/1.m3u8
+
+#EXTINF:-1 ,CCTV-2  财经频道 HD
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-2/1.m3u8
+
+#EXTINF:-1 ,CCTV-3  综艺频道 HD
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+
+#EXTINF:-1 ,CCTV-4  中文国际 HD
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-4/1.m3u8
+
+#EXTINF:-1 ,CCTV-5  体育频道 HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+
+#EXTINF:-1 ,CCTV-5+  体育赛事 HD
+http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+
+#EXTINF:-1 ,CCTV-6  电影频道 HD
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+
+#EXTINF:-1 ,CCTV-7  国防军事 HD
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-7/1.m3u8
+
+#EXTINF:-1 ,CCTV-8  电视剧频道 HD
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+
+#EXTINF:-1 ,CCTV-9  纪录频道 HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+
+#EXTINF:-1 ,CCTV-10  科教频道 HD
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-10/1.m3u8
+
+#EXTINF:-1 ,CCTV-11  戏曲频道 HD
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-11/1.m3u8
+
+#EXTINF:-1 ,CCTV-12  社会与法 HD
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-12/1.m3u8
+
+#EXTINF:-1 ,CCTV-13  新闻频道 HD
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-13/1.m3u8
+
+#EXTINF:-1 ,CCTV-14  少儿频道 HD
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-14/1.m3u8
+
+#EXTINF:-1 ,CCTV-15  音乐频道 HD
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-15/1.m3u8
+
+#EXTINF:-1 ,CCTV-17  农业农村 HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+
+
+
+
+
+#【福建】
+#EXTINF:-1,福建导视
+#http://fjnh.chinashadt.com:2036/live/stream:fjds.stream/playlist.m3u8
+
+#EXTINF:-1,FJTV-福建新闻 HD
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
+#EXTINF:-1,FJTV-福建旅游 HD
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226125/10000100000000060000000002358191_0.smil
+#EXTINF:-1,FJTV-福建电视 HD
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
+#EXTINF:-1,FJTV-福建经济 HD
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
+#EXTINF:-1,FJTV-福建公共 HD
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
+#EXTINF:-1,FJTV-福建少儿 HD
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
+
+
+#【福州】
+
+#EXTINF:-1,FZTV-1 福州综合 HD
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+#EXTINF:-1,FZTV-2 福州影视 HD
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1,FZTV-3 福州生活 HD
+http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+#EXTINF:-1,FZTV-  福州少儿 HD
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+
+
+
+
+#【其他央视】
+#EXTINF:-1,CETV-1  中国教育电视
+http://183.251.61.207/PLTV/88888888/224/3221225869/index.m3u8
+#EXTINF:-1,CGTN-1  中国环球电视-1
+http://183.251.61.207/PLTV/88888888/224/3221225813/index.m3u8
+#EXTINF:-1,CGTN-2  中国环球电视-2
+http://183.251.61.207/PLTV/88888888/224/3221225822/index.m3u8
+
+
+
+#【各地卫视】
+
+#EXTINF:-1,广东卫视 HD
+http://183.251.61.207/PLTV/88888888/224/3221225824/index.m3u8
+#EXTINF:-1,浙江卫视 HD
+http://183.251.61.207/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:-1,北京卫视 HD
+http://183.251.61.207/PLTV/88888888/224/3221225826/index.m3u8
+#EXTINF:-1,湖南卫视 HD
+http://183.251.61.207/PLTV/88888888/224/3221225827/index.m3u8
+#EXTINF:-1,东方卫视 HD
+http://183.251.61.207/PLTV/88888888/224/3221225828/index.m3u8
+#EXTINF:-1,天津卫视 HD
+http://183.251.61.207/PLTV/88888888/224/3221225830/index.m3u8
+#EXTINF:-1,辽宁卫视 HD
+http://183.251.61.207/PLTV/88888888/224/3221225832/index.m3u8
+#EXTINF:-1,东南卫视 HD
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
+#EXTINF:-1,江西卫视 HD
+http://183.251.61.207/PLTV/88888888/224/3221225834/index.m3u8
+#EXTINF:-1,四川卫视 720p
+http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
+#EXTINF:-1,广西卫视
+http://183.251.61.207/PLTV/88888888/224/3221225836/index.m3u8
+#EXTINF:-1,河北卫视
+http://183.251.61.207/PLTV/88888888/224/3221225837/index.m3u8
+#EXTINF:-1,贵州卫视
+http://183.251.61.207/PLTV/88888888/224/3221225838/index.m3u8
+#EXTINF:-1,山西卫视
+http://183.251.61.207/PLTV/88888888/224/3221225839/index.m3u8
+#EXTINF:-1,湖北卫视 HD
+http://183.251.61.207/PLTV/88888888/224/3221225840/index.m3u8
+#EXTINF:-1,青海卫视 HD
+http://live.geermurmt.com/qhws/sd/live.m3u8
+#EXTINF:-1,河南卫视
+http://183.251.61.207/PLTV/88888888/224/3221225842/index.m3u8
+#EXTINF:-1,山东卫视 HD
+http://183.251.61.207/PLTV/88888888/224/3221225843/index.m3u8
+#EXTINF:-1,安徽卫视 HD
+http://183.251.61.207/PLTV/88888888/224/3221225844/index.m3u8
+#EXTINF:-1,甘肃卫视 HD
+http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1,内蒙卫视
+http://183.251.61.207/PLTV/88888888/224/3221225846/index.m3u8
+#EXTINF:-1,江苏卫视 HD
+http://183.251.61.207/PLTV/88888888/224/3221225847/index.m3u8
+#EXTINF:-1,深圳卫视 HD
+http://183.251.61.207/PLTV/88888888/224/3221225848/index.m3u8
+#EXTINF:-1,宁夏卫视
+http://183.251.61.207/PLTV/88888888/224/3221225849/index.m3u8
+#EXTINF:-1,陕西卫视
+http://183.251.61.207/PLTV/88888888/224/3221225850/index.m3u8
+#EXTINF:-1,吉林卫视
+http://183.251.61.207/PLTV/88888888/224/3221225851/index.m3u8
+#EXTINF:-1,新疆卫视
+http://183.251.61.207/PLTV/88888888/224/3221225852/index.m3u8
+#EXTINF:-1,云南卫视
+http://183.251.61.207/PLTV/88888888/224/3221225853/index.m3u8
+#EXTINF:-1,西藏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1,旅游卫视
+http://183.251.61.207/PLTV/88888888/224/3221225855/index.m3u8
+#EXTINF:-1,康巴卫视
+http://183.251.61.207/PLTV/88888888/224/3221225856/index.m3u8
+#EXTINF:-1,黑龙江卫视 HD
+http://183.207.249.36/PLTV/4/224/3221227323/index.m3u8
+#EXTINF:-1,重庆卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225949/index.m3u8
+
+
+#【NewTV】
+
+#EXTINF:-1,NewTV-精品电影 HD
+http://183.251.61.207/PLTV/88888888/224/3221225891/index.m3u8
+#EXTINF:-1,NewTV-动作电影 HD
+http://183.251.61.207/PLTV/88888888/224/3221225879/index.m3u8
+#EXTINF:-1,NewTV-惊悚悬疑 HD
+http://183.251.61.207/PLTV/88888888/224/3221225885/index.m3u8
+#EXTINF:-1,NewTV-精品纪录 HD
+http://183.251.61.207/PLTV/88888888/224/3221225888/index.m3u8
+#EXTINF:-1,NewTV-精品大剧 HD
+http://183.251.61.207/PLTV/88888888/224/3221225889/index.m3u8
+#EXTINF:-1,NewTV-古装剧场 HD
+http://183.251.61.207/PLTV/88888888/224/3221225880/index.m3u8
+#EXTINF:-1,NewTV-爱情喜剧 HD
+http://183.251.61.207/PLTV/88888888/224/3221225877/index.m3u8
+#EXTINF:-1,NewTV-明星大片 HD
+http://183.251.61.207/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1,NewTV-金牌综艺 HD
+http://183.251.61.207/PLTV/88888888/224/3221225884/index.m3u8
+#EXTINF:-1,NewTV-家庭剧场 HD
+http://183.251.61.207/PLTV/88888888/224/3221225882/index.m3u8
+#EXTINF:-1,NewTV-怡伴健康 HD
+http://183.251.61.207/PLTV/88888888/224/3221225883/index.m3u8
+#EXTINF:-1,NewTV-辣妈潮婆 HD
+http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
+#EXTINF:-1,NewTV-完美游戏 HD
+http://183.251.61.207/PLTV/88888888/224/3221225894/index.m3u8
+#EXTINF:-1,NewTV-动画王国 HD
+http://183.251.61.207/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1,NewTV-精品体育 HD
+http://183.251.61.207/PLTV/88888888/224/3221225886/index.m3u8
+#EXTINF:-1,NewTV-武搏世界 HD
+http://183.251.61.207/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1,NewTV-中国功夫 HD
+http://183.251.61.207/PLTV/88888888/224/3221225896/index.m3u8
+#EXTINF:-1,NewTV-军事评论 HD
+http://183.251.61.207/PLTV/88888888/224/3221225890/index.m3u8
+#EXTINF:-1,NewTV-军旅剧场 HD
+http://183.251.61.207/PLTV/88888888/224/3221225887/index.m3u8
+#EXTINF:-1,NewTV-海外剧场 HD
+http://183.251.61.207/PLTV/88888888/224/3221225881/index.m3u8
+#EXTINF:-1,NewTV-农业致富 HD
+http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1,NewTV-炫舞未来 HD
+http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:-1,NewTV超级体育 HD
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1,NewTV超级电影 HD
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1,NewTV超级电影 HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1,NewTV超级电视剧 HD
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1,NewTV超级综艺 HD
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+
+
+
+#【香港】
+
+#EXTINF:-1,HK-香港卫视 720p
+https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
+#EXTINF:-1,HK-凤凰卫视-香港 HD
+https://phoenixtv.hkatv.vip/liveott/PHK.m3u8
+#EXTINF:-1,HK-凤凰卫视-中文 HD
+https://phoenixtv.hkatv.vip/liveott/PCC.m3u8
+#EXTINF:-1,HK-凤凰卫视-资讯 HD
+https://phoenixtv.hkatv.vip/liveott/PIN.m3u8
+
+#EXTINF:-1,HK-香港开电视 720p
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1,HK-亚旅卫视 720p
+https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
+#EXTINF:-1,HK-寰宇新闻台 HD
+http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+#EXTINF:-1,HK-翡翠台 HD
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1,HK-明珠台 HD
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1,HK-天映经典 540p
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1,HK-天映电影 HD
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1,HK-有线新闻台 480p
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1,HK-有线财经资讯台 480p
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1,HK-有线直播新闻台 480p
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1,HK-无线新闻 480p
+http://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1,HK-无线财经 HD
+http://cdn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:-1,HK-RHK31  (HD)
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1,HK-RHK32  (HD)
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1,HK-TVB-L (720P)
+https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
+#EXTINF:-1,HK-TVB-星河  (720p)
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1,HK-ViuTV (HD)
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1,HK-ViuTV6 (HD)
+http://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1,HK-iMode TV  (HD)
+https://juyunlive.juyun.tv/live/24950198.m3u8
+#EXTINF:-1,HK-J2 (HD)
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1,HK-耀才财经 480p
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+
+
+
+#【台湾】
+
+#EXTINF:-1,TW-东森新闻 (HD)
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1,TW-东森财经新闻 (HD)
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1,TW-中天新闻 (HD)
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1,TW-台视新闻 (HD)
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1,TW-三立台湾 (HD)
+https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TW-三立都会 (HD)
+https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TW-民视 720p
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1,TW-民视-台湾 720p
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1,TW-民视-第一 720p
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1,TW-壹电视台 (HD)
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1,TW-大立电视 720p
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1,TW-华藏卫视 720p
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+#EXTINF:-1,TW-唯心电视 480p
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1,TW-大爱1 720p
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1,TW-大爱2 720p
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
+

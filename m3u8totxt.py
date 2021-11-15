@@ -1,9 +1,10 @@
 
 if __name__ == '__main__':
-    filename = "hangkang.m3u8"
+    filename = "基础电视直播源列表.txt"
     textfilename = "iptv-new.txt"
     names=[]
     links=[]
+    name = "#NULL"
     fs = open(textfilename, 'w')
     with open(filename, 'r') as file_to_read:
         while True:
@@ -14,7 +15,7 @@ if __name__ == '__main__':
             if "#EXTINF:" in line:
                 name=line.split(',')[1].strip()
 
-            if "http" in line:
+            if "http://" in line:
                 link=line.strip()
                 fs.writelines("{},{}\n".format(name,link))
     fs.close()
