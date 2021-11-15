@@ -117,47 +117,6 @@ TW-大立电视 720p,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 TW-华藏卫视 720p,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 TW-唯心电视 480p,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 
-
-
-CCTV1,http://223.110.241.137:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/?type=.m3u8#http://223.110.241.137:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/?type=.m3u8
-CCTV2,http://223.110.241.137:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/?type=.m3u8#http://223.110.241.137:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/?type=.m3u8
-CCTV3,http://223.110.241.137:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/?type=.m3u8#http://223.110.241.137:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/?type=.m3u8
-CCTV4,http://223.110.241.137:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/?type=.m3u8#http://223.110.241.137:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/?type=.m3u8
-CCTV5,http://223.110.241.137:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/?type=.m3u8#http://223.110.241.137:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/?type=.m3u8
-CCTV5+,http://223.110.241.137:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/?type=.m3u8#http://223.110.241.137:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/?type=.m3u8
-CCTV6,http://223.110.241.137:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/?type=.m3u8#http://223.110.241.137:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/?type=.m3u8
-CCTV7,http://223.110.241.137:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/?type=.m3u8
-CCTV8,http://223.110.241.137:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/?type=.m3u8#http://223.110.241.137:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/?type=.m3u8
-CCTV9,http://223.110.241.137:6610/gitv/live1/G_CCTV-9/G_CCTV-9/?type=.m3u8
-CCTV10,http://223.110.241.137:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/?type=.m3u8
-CCTV11,http://223.110.241.137:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/?type=.m3u8
-CCTV12,http://223.110.241.137:6610/gitv/live1/CCTV-12/CCTV-12/?type=.m3u8
-CCTV13,http://223.110.241.137:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/?type=.m3u8
-CCTV14,http://223.110.241.137:6610/gitv/live1/G_CCTV-14/G_CCTV-14/?type=.m3u8
-CCTV15,http://223.110.241.137:6610/gitv/live1/G_CCTV-15/G_CCTV-15/?type=.m3u8
-CCTV17,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226815/index.m3u8
-CETV1,http://223.110.241.137:6610/gitv/live1/G_CETV-1/G_CETV-1/?type=.m3u8
-CETV2,http://223.110.241.137:6610/gitv/live1/G_CETV-2/G_CETV-2/?type=.m3u8
-CETV4,http://223.110.241.137:6610/gitv/live1/G_CETV-4/G_CETV-4/?type=.m3u8
-CETV3,http://223.110.241.137:6610/gitv/live1/G_CETV-3/G_CETV-3/?type=.m3u8
-CCTVNEWS,http://223.110.241.137:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/?type=.m3u8
-中国天气,http://117.136.154.98/PLTV/88888888/224/3221225805/index.m3u8#http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-CGTN环球国际,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN记录频道,https://livedoc.cgtn.com/1000d/prog_index.m3u8
-CCTV老故事台,http://183.207.248.71/gitv/live1/G_LAOGUSHI/G_LAOGUSHI#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8#rtmp://58.200.131.2:1935/livetv/lgstv
-CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
-CCTV发现之旅,http://39.134.24.202/PLTV/88888888/224/3221225879/index.m3u8#http://183.207.248.71/gitv/live1/G_FAXIANZL/G_FAXIANZL#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226235/1.m3u8
-CCTV央视台球,http://hdtv.haust.edu.cn/hls/hls184a574.m3u8
-CCTV风云足球,http://hdtv.haust.edu.cn/hls/hls184a510.m3u8#http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
-CCTV央视文化精品,http://hdtv.haust.edu.cn/hls/hls184a520.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a520.m3u8
-CCTV怀旧剧场,http://hdtv.haust.edu.cn/hls/hls184a518.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a518.m3u8
-CCTV第一剧场,http://hdtv.haust.edu.cn/hls/hls184a512.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a512.m3u8
-CCTV风云剧场,http://hdtv.haust.edu.cn/hls/hls184a516.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a516.m3u8
-CCTV风云音乐,http://hdtv.haust.edu.cn/hls/hls184a519.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a519.m3u8
-CCTV女性时尚,http://hdtv.haust.edu.cn/hls/hls184a522.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a522.m3u8
-CCTV兵器科技,http://hdtv.haust.edu.cn/hls/hls184a573.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a573.m3u8
-CCTV电视指南,http://hdtv.haust.edu.cn/hls/hls186a88.m3u8#http://hdtv.lzu6.edu.cn/hls/hls186a88.m3u8
-
 ==贵州列表==,#genre#
 贵州卫视,http://39.134.39.37/PLTV/88888888/224/3221226276/index.m3u8
 贵州公共频道,http://hls-qnlo-live.gzstv.com/livegztv-lo/CH02_lo.m3u8#http://pluslive.zunyifb.com/zhpd/playlist.m3u8?_upt=8968f2581620580848
